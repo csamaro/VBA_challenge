@@ -2,11 +2,11 @@
 VBA challenge activity
 
 
-#Assignment Overview
+# Assignment Overview
 
-##Step 1
+## Step 1
 
-###Step 1.1
+### Step 1.1
 This step is going to create new automated process using VBA
 
 <hr/>
